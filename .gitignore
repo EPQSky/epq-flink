@@ -11,3 +11,5 @@ gen
 **/target
 
 **/**/test
+
+src/main/java/icu/epq/scalaexc
